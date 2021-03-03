@@ -776,3 +776,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.03-17.14.08:577][ 57]Display: HotReload took  0.4s.
 [2021.03.03-17.14.17:939][706]LogSlate: WidgetSwitcher ('None') active index changed to -1
 [2021.03.03-17.14.17:939][706]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.03.03-17.14.27:463][510]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.03.03-17.14.33:221][149]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.03.03-17.14.44:353][479]Running D:/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal Projects/Git/FPS_GameProject/FPSProject/FPSProject.uproject" -game -rocket -progress
+[2021.03.03-17.14.45:776][479]Discovering modules, targets and source code for project...
+[2021.03.03-17.15.09:912][479]Binding IntelliSense data...
+[2021.03.03-17.15.33:952][479]Binding IntelliSense data... 50%
+[2021.03.03-17.15.33:953][479]Binding IntelliSense data... 100%
+[2021.03.03-17.15.33:953][479]Writing project files...
+[2021.03.03-17.16.01:136][479]Writing project files... 67%
+[2021.03.03-17.16.01:137][479]Writing project files... 100%
+[2021.03.03-17.16.01:243][479]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2021.03.03-17.16.01:250][479]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.03.03-17.16.01:257][479]Candidate modules for hot reload:
+[2021.03.03-17.16.01:257][479]  FPSProject
+[2021.03.03-17.16.01:257][479]Launching UnrealBuildTool... [D:/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSProject,2470 FPSProjectEditor Win64 Development -Project="D:/Unreal Projects/Git/FPS_GameProject/FPSProject/FPSProject.uproject" "D:/Unreal Projects/Git/FPS_GameProject/FPSProject/FPSProject.uproject"  -IgnoreJunk]

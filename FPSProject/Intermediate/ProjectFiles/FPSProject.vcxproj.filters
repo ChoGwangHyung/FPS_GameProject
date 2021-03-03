@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FPSProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{47FF9E53-70C7-4681-8700-3517B39B76BA}</UniqueIdentifier>
+      <UniqueIdentifier>{7ED58E3D-D09B-4886-B719-D9DF718BD846}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{88E88D36-04A8-4001-B48A-F2525413D8E3}</UniqueIdentifier>
+      <UniqueIdentifier>{094675F9-67C8-4E9D-B038-8C08095710C2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FPSProject">
-      <UniqueIdentifier>{A0328F55-739B-4386-8CBE-1CCD222498A6}</UniqueIdentifier>
+      <UniqueIdentifier>{E7BE076D-3EAB-4A5B-8ECC-2BBAA1FAEC49}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSProject\FPSProject.Build.cs">
       <Filter>Source\FPSProject</Filter>
@@ -42,6 +42,12 @@
       <Filter>Source\FPSProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FPSProject\FPSProjectGameModeBase.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\ShooterAIController.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\ShooterAIController.h">
       <Filter>Source\FPSProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\FPSProject\ShooterCharacter.cpp">
