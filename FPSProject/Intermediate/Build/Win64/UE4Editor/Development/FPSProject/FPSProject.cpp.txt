@@ -1,0 +1,2 @@
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Source\FPSProject\FPSProject.h
