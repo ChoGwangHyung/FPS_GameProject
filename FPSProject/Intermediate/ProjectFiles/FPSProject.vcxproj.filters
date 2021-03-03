@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FPSProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7ED58E3D-D09B-4886-B719-D9DF718BD846}</UniqueIdentifier>
+      <UniqueIdentifier>{EBB990EA-911D-435C-844E-F752580B0441}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FPSProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{094675F9-67C8-4E9D-B038-8C08095710C2}</UniqueIdentifier>
+      <UniqueIdentifier>{186354E8-2217-4F0C-A7E0-65431695B84E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,8 +27,32 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FPSProject">
-      <UniqueIdentifier>{E7BE076D-3EAB-4A5B-8ECC-2BBAA1FAEC49}</UniqueIdentifier>
+      <UniqueIdentifier>{419B6829-411E-440F-B09F-27556A031804}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\FPSProject\BTService_PlayerLocation.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\BTService_PlayerLocation.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\BTService_PlayerLocationIfSeen.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\BTService_PlayerLocationIfSeen.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\BTTask_ClearBlackboardValue.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\BTTask_ClearBlackboardValue.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\BTTask_Shoot.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\BTTask_Shoot.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\FPSProject\FPSProject.Build.cs">
       <Filter>Source\FPSProject</Filter>
     </None>
@@ -42,6 +66,18 @@
       <Filter>Source\FPSProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FPSProject\FPSProjectGameModeBase.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\Gun.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\Gun.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\KillEmAllGameMode.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\KillEmAllGameMode.h">
       <Filter>Source\FPSProject</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\FPSProject\ShooterAIController.cpp">

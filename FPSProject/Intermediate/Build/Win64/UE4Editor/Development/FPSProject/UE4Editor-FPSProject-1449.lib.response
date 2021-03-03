@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPSProject-1449.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTService_PlayerLocation.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTService_PlayerLocationIfSeen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTTask_ClearBlackboardValue.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTTask_Shoot.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Gun.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\KillEmAllGameMode.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterAIController.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterCharacter.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterPlayerController.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTService_PlayerLocation.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTService_PlayerLocationIfSeen.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTTask_ClearBlackboardValue.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\BTTask_Shoot.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProject.init.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Gun.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\KillEmAllGameMode.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterAIController.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterCharacter.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\ShooterPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-1449.lib"
+/INCLUDE:IMPLEMENT_MODULE_FPSProject

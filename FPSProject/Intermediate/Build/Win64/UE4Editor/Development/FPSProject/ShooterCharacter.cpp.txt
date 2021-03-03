@@ -5,3 +5,15 @@ D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\ShooterCharacter.generated.h
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Source\FPSProject\Gun.h
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\Gun.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Source\FPSProject\FPSProjectGameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal Projects\Git\FPS_GameProject\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSProjectGameModeBase.generated.h

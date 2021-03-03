@@ -3,3 +3,7 @@
 
 #include "FPSProjectGameModeBase.h"
 
+void AFPSProjectGameModeBase::PawnKilled(APawn* PawnKilled)
+{
+
+}

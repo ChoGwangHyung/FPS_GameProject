@@ -40,7 +40,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSProjectGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFPSProjectGameModeBase_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
+		{ "Comment", "/**\n *\n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "FPSProjectGameModeBase.h" },
 		{ "ModuleRelativePath", "FPSProjectGameModeBase.h" },
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSProjectGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFPSProjectGameModeBase, 1431372492);
+	IMPLEMENT_CLASS(AFPSProjectGameModeBase, 2522502090);
 	template<> FPSPROJECT_API UClass* StaticClass<AFPSProjectGameModeBase>()
 	{
 		return AFPSProjectGameModeBase::StaticClass();

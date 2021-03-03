@@ -7,11 +7,13 @@
 #include "FPSProjectGameModeBase.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class FPSPROJECT_API AFPSProjectGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+
+public:
+	virtual void PawnKilled(APawn* PawnKilled);
 };

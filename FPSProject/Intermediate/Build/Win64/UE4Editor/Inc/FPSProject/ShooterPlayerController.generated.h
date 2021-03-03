@@ -60,7 +60,13 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AShooterPlayerController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AShooterPlayerController)
 
 
-#define FPSProject_Source_FPSProject_ShooterPlayerController_h_15_PRIVATE_PROPERTY_OFFSET
+#define FPSProject_Source_FPSProject_ShooterPlayerController_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__LoseScreenClass() { return STRUCT_OFFSET(AShooterPlayerController, LoseScreenClass); } \
+	FORCEINLINE static uint32 __PPO__WinScreenClass() { return STRUCT_OFFSET(AShooterPlayerController, WinScreenClass); } \
+	FORCEINLINE static uint32 __PPO__HUDClass() { return STRUCT_OFFSET(AShooterPlayerController, HUDClass); } \
+	FORCEINLINE static uint32 __PPO__RestartDelay() { return STRUCT_OFFSET(AShooterPlayerController, RestartDelay); }
+
+
 #define FPSProject_Source_FPSProject_ShooterPlayerController_h_12_PROLOG
 #define FPSProject_Source_FPSProject_ShooterPlayerController_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
